@@ -1,0 +1,12 @@
+.DS_Store
+.cache/
+dist/
+logs/
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.log
