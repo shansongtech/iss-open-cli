@@ -1,0 +1,9 @@
+api:
+  base_url: "https://open.ishansong.com"
+  timeout: 3
+auth:
+  client_id: "" # 请设置client_id
+  app_secret: "" # 请设置app_secret
+  shop_id: "" # 请设置shop_id
+log:
+  level: "info"
